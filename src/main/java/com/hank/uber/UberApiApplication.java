@@ -10,4 +10,8 @@ public class UberApiApplication {
         SpringApplication.run(UberApiApplication.class, args);
     }
 
+    public void Display(){
+        System.out.println("this is rupesh's method");
+    }
+
 }
